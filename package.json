@@ -1,0 +1,9 @@
+{
+  "name": "extractJSONcontentfromAST",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "html2ast": "E:\\My Libs\\html2ast"
+  }
+}
